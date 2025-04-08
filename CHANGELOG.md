@@ -1,3 +1,6 @@
+## 0.3.3
+- Fix broken linux_amd64 artifact build and publish
+
 ## 0.2.0
 
 FEATURES:
